@@ -1,0 +1,8 @@
+.venv
+/venv
+
+.env
+
+.env.handson
+.env.handson-prod
+.env.handson-stage
